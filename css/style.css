@@ -122,10 +122,6 @@ a:hover {
 p {
   margin: 0 0 1.6rem 0;
 }
-p.deck {
-  font-size: 1.125rem;
-  font-weight: 300;
-}
 p a {
   border-bottom: 1px dotted #a6a6a6;
 }
@@ -175,7 +171,7 @@ h2 {
   text-transform: lowercase;
   font-family: 'Podkova', Arial, sans-serif;
   display: inline-block;
-  padding-top: .6rem;
+  /*padding-top:.6rem;*/
   position: relative;
 }
 h2:before {
@@ -183,25 +179,22 @@ h2:before {
   position: absolute;
   border-top: 3px solid #333333;
   content: '';
-  top: 0;
+  top: -0.6rem;
 }
 h3 {
   font-size: .9375rem;
-  /*font-size:1rem;*/
+  margin-bottom: 0;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: .15rem;
   font-size: 1rem;
-  /*padding:.5rem 1rem .35rem 1rem;
-    background:black;
-    color:white;
-    border-radius:.3rem;*/
 }
 h4 {
   font-size: 1.1875rem;
   margin-bottom: 2.6rem;
   font-weight: 400;
   text-align: center;
+  DISPLAY: NONE;
 }
 @media only screen and (min-width: 950px) {
   h4 {
@@ -720,7 +713,7 @@ figure figcaption {
   text-align: center;
   outline: none;
   cursor: pointer;
-  margin-bottom: 2.6rem;
+  margin-top: 4.2rem;
   position: relative;
   z-index: 1001;
 }
@@ -754,6 +747,19 @@ figure figcaption {
 .nav-open .footer .contact:before {
   -webkit-transform: scale(75);
           transform: scale(75);
+}
+.social-row {
+  padding: 0;
+}
+.social-row a {
+  font-size: 1.3rem;
+  color: #e6e6e6;
+  border: 0;
+  padding: 0 .3rem;
+}
+.social-row a:hover {
+  color: #a6a6a6;
+  border: 0;
 }
 body.nav-open,
 body.nav-close {
