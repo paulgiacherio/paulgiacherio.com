@@ -683,6 +683,11 @@ figure figcaption {
   color: #a6a6a6;
   font-weight: 300;
 }
+@media only screen and (min-width: 950px) {
+  .services p {
+    text-align: right;
+  }
+}
 .footer {
   color: #a6a6a6;
   background: white;
