@@ -1,0 +1,73 @@
+/* headings */
+
+h1,h2,h3,h4,h5,h6{
+  font-weight:300;
+  margin-bottom:2.6rem;
+  line-height: 1.2em;
+
+
+  & small{
+    font-size:.6em;
+  }
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-family:@header-font-family;
+}
+
+h2 {
+    font-size:2.1rem;
+    line-height:1em;
+    text-transform: lowercase;
+    font-family:@header-font-family;
+    display:inline-block;
+    padding-top:.6rem;
+    position:relative;
+
+    &:before{
+        width:1.6rem;
+        position:absolute;
+        border-top:3px solid @gray-dark;
+        content:'';
+        top:0;
+    };
+}
+
+h3 {
+    font-size:.9375rem;
+    /*font-size:1rem;*/
+    font-weight:400;
+    text-transform:uppercase;
+    letter-spacing:.15rem;
+    font-size:1rem;
+    
+    /*padding:.5rem 1rem .35rem 1rem;
+    background:black;
+    color:white;
+    border-radius:.3rem;*/
+}
+
+h4 {
+    font-size: 1.1875rem;
+    margin-bottom:2.6rem;
+    font-weight:400;
+    text-align:center;
+
+    @media @xl{
+        text-align: inherit;
+    }
+}
+
+h5 {
+    font-size: 1.6rem;
+}
+
+h6 {
+    letter-spacing:.15rem;
+    font-size: .6875rem;
+    text-transform:uppercase;
+    font-weight:400;
+    margin-bottom:0;
+    color:@gray-dark;
+}

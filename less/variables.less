@@ -1,0 +1,87 @@
+/* VARIABLES */
+
+/* reference 
+	1.6 2.6 4.1 6.6 10.5*/
+
+/* default font size and lineheight */
+
+@font-size:      	100%;
+@line-height:		1.6;
+@lh:    			1.6rem;
+
+
+/* webfonts */
+
+@import url(https://fonts.googleapis.com/css?family=Podkova:400,700);
+@import url(http://fonts.googleapis.com/css?family=Muli:300,400,700,300italic);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
+
+
+@sans-font-family: 'Muli', Arial, sans-serif;
+@header-font-family: 'Podkova',Arial, sans-serif;
+
+/* brand colors */
+
+@bg-color:     		@gray-lightest;
+@violet:			#ED254E;	
+@gray-darkest:    	lighten(#000, 10%);
+@gray-dark:       	lighten(#000, 20%);
+@gray:         		lighten(#000, 50%);
+@gray-light:      	lighten(#000, 65%);
+@gray-lighter:    	lighten(#000, 90%);
+@gray-lightest:     lighten(#000, 97%);
+
+
+
+/* helpers */
+.border-radius (@radius: 1em) {
+	border-radius:         @radius;
+}
+
+.text-center{
+  text-align:center;
+    
+    & img{
+      margin-left:auto;
+      margin-right: auto;
+    }
+}
+
+.text-right{
+	text-align:right;}
+
+.text-left{
+	text-align:left;}
+
+
+.alt{
+	background:darken(@gray-lightest,3%);
+}
+
+.shadow{
+	box-shadow: 0 40px 60px rgba(0,0,0,.1);
+}
+
+.hide-sm{
+	@media @sm{
+		display:none;
+	}
+}
+.full-height{
+	section&{
+		height:100vh;
+
+		.row{
+			height:100%;
+		}
+	}
+}
+.skew{
+	transform:rotateX(-66deg) rotateY(0deg) rotateZ(-45deg);
+	box-shadow:-60px 60px 80px rgba(0,0,0,.05);
+
+}
+
+/* simplified responsive queries */
+@sm:      ~"only screen and (max-width : 949px)";
+@xl:     ~"only screen and (min-width: 950px)";
