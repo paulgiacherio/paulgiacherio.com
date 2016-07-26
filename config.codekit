@@ -20,17 +20,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/athenaEmail.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58001,
-		"inputAbbreviatedPath": "\/img\/athenaEmail.jpg",
-		"outputAbbreviatedPath": "\/img\/athenaEmail.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/ba21-door-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -93,17 +82,6 @@
 		"initialSize": 199351,
 		"inputAbbreviatedPath": "\/img\/ba21-promo-white.jpg",
 		"outputAbbreviatedPath": "\/img\/ba21-promo-white.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/ba21-promo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11384,
-		"inputAbbreviatedPath": "\/img\/ba21-promo.jpg",
-		"outputAbbreviatedPath": "\/img\/ba21-promo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -328,138 +306,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/cleangredients-promo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 13509,
-		"inputAbbreviatedPath": "\/img\/cleangredients-promo.jpg",
-		"outputAbbreviatedPath": "\/img\/cleangredients-promo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/cloud.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 59037,
-		"inputAbbreviatedPath": "\/img\/cloud.jpg",
-		"outputAbbreviatedPath": "\/img\/cloud.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 55843,
-		"inputAbbreviatedPath": "\/img\/email-1.jpg",
-		"outputAbbreviatedPath": "\/img\/email-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39644,
-		"inputAbbreviatedPath": "\/img\/email-2.jpg",
-		"outputAbbreviatedPath": "\/img\/email-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38778,
-		"inputAbbreviatedPath": "\/img\/email-3.jpg",
-		"outputAbbreviatedPath": "\/img\/email-3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33057,
-		"inputAbbreviatedPath": "\/img\/email-4.jpg",
-		"outputAbbreviatedPath": "\/img\/email-4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27908,
-		"inputAbbreviatedPath": "\/img\/email-5.jpg",
-		"outputAbbreviatedPath": "\/img\/email-5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 36123,
-		"inputAbbreviatedPath": "\/img\/email-6.jpg",
-		"outputAbbreviatedPath": "\/img\/email-6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-7.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46451,
-		"inputAbbreviatedPath": "\/img\/email-7.jpg",
-		"outputAbbreviatedPath": "\/img\/email-7.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-8.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 45341,
-		"inputAbbreviatedPath": "\/img\/email-8.jpg",
-		"outputAbbreviatedPath": "\/img\/email-8.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/email-9.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39038,
-		"inputAbbreviatedPath": "\/img\/email-9.jpg",
-		"outputAbbreviatedPath": "\/img\/email-9.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/gbreenblue-promo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58330,
-		"inputAbbreviatedPath": "\/img\/gbreenblue-promo.jpg",
-		"outputAbbreviatedPath": "\/img\/gbreenblue-promo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/greenblue-blog-index.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -537,17 +383,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/greenblue-promo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58330,
-		"inputAbbreviatedPath": "\/img\/greenblue-promo.jpg",
-		"outputAbbreviatedPath": "\/img\/greenblue-promo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/greenblue-single-door-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -588,39 +423,6 @@
 		"initialSize": 242516,
 		"inputAbbreviatedPath": "\/img\/greenblue-work.jpg",
 		"outputAbbreviatedPath": "\/img\/greenblue-work.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/Line.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 132363,
-		"inputAbbreviatedPath": "\/img\/Line.png",
-		"outputAbbreviatedPath": "\/img\/Line.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/oesh-box.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 36236,
-		"inputAbbreviatedPath": "\/img\/oesh-box.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-box.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/oesh-composite.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 86230,
-		"inputAbbreviatedPath": "\/img\/oesh-composite.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-composite.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -669,17 +471,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/oesh-grid.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 40879,
-		"inputAbbreviatedPath": "\/img\/oesh-grid.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-grid.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/oesh-iphone.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -687,17 +478,6 @@
 		"initialSize": 277014,
 		"inputAbbreviatedPath": "\/img\/oesh-iphone.png",
 		"outputAbbreviatedPath": "\/img\/oesh-iphone.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/oesh-logo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24627,
-		"inputAbbreviatedPath": "\/img\/oesh-logo.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -713,17 +493,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/oesh-poster.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 126148,
-		"inputAbbreviatedPath": "\/img\/oesh-poster.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-poster.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/oesh-product.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -731,28 +500,6 @@
 		"initialSize": 141984,
 		"inputAbbreviatedPath": "\/img\/oesh-product.jpg",
 		"outputAbbreviatedPath": "\/img\/oesh-product.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/oesh-promo.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58198,
-		"inputAbbreviatedPath": "\/img\/oesh-promo.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-promo.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/oesh-sale.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46184,
-		"inputAbbreviatedPath": "\/img\/oesh-sale.jpg",
-		"outputAbbreviatedPath": "\/img\/oesh-sale.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -830,28 +577,6 @@
 		"initialSize": 153856,
 		"inputAbbreviatedPath": "\/img\/oesh-store.jpg",
 		"outputAbbreviatedPath": "\/img\/oesh-store.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/Oval 1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4646,
-		"inputAbbreviatedPath": "\/img\/Oval 1.png",
-		"outputAbbreviatedPath": "\/img\/Oval 1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/path.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 154576,
-		"inputAbbreviatedPath": "\/img\/path.png",
-		"outputAbbreviatedPath": "\/img\/path.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
