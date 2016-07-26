@@ -251,6 +251,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/cg-single-logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15091,
+		"inputAbbreviatedPath": "\/img\/cg-single-logo.jpg",
+		"outputAbbreviatedPath": "\/img\/cg-single-logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/cg-skew-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -291,6 +302,17 @@
 		"initialSize": 88951,
 		"inputAbbreviatedPath": "\/img\/cg-subscribe.jpg",
 		"outputAbbreviatedPath": "\/img\/cg-subscribe.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cg-tech.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14037,
+		"inputAbbreviatedPath": "\/img\/cg-tech.jpg",
+		"outputAbbreviatedPath": "\/img\/cg-tech.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
