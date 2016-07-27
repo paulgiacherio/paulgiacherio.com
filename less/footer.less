@@ -29,9 +29,17 @@
 		text-align:center;
 		outline:none;
 		cursor:pointer;
-		margin-top:4.2rem;
+		/*margin-top:4.2rem;*/
 		position:relative;
 		z-index:1001;
+		position:fixed;
+		right:1.6rem;
+		bottom:1.6rem;
+
+		@media @sm{
+			right:.6rem;
+			bottom:.6rem;
+		}
 
 		
 		&:hover{
@@ -98,7 +106,7 @@ body.nav-open,body.nav-close{
 	opacity:0;
 	visibility:hidden;
 	z-index:10001;
-
+	
 	
 	@media @sm{
 		overflow-y:auto;

@@ -5,50 +5,43 @@ body,html{
 }
 
 
-
-/*homepage hello*/
-
-.hello{
-	text-transform:lowercase;
-	font-size:7.4vw;
-	line-height:1em;
-	color:@gray-lighter;
-	white-space: nowrap;
-	display:inline-block;
-	text-align:left;
-
-	@media @sm{
-		font-size:10vw;
-		color:@gray-dark;
-	}
-}
-.intro-wrap{
-	text-align:center;
-	height:100vh;
-	width:100vw;
-	display:flex;
-	flex-direction:column;
-	justify-content:center;
-	position:relative;
+.intro{
+	height:75vh;
 	background:white;
 
-
-	.site-intro{
-		position:absolute;
+	header{
+		padding: 4.2rem @lh;
+		height:100%;
 		display:flex;
-		top:0;
-		left:0;
-		height:100vh;
-		width:100vw;
-		text-align:center;
-		flex-direction:column;
-  		justify-content:center;
-  		z-index:1000;
+    	flex-direction: column;
+    	max-width: 89.3rem;
+    	max-width: 68.7rem;
+    	margin:0 auto;
 		
-		div{
-			align-self: center;			
+		.col{
+			flex:1;
+			@media @xl{
+				padding:0 1.6rem;
+			}
 		}
 
-  		
-	}
+		h3{
+			color:@gray-light;
+			font-weight:300;
+		}
+		h1{
+			text-transform:uppercase;
+
+			@media @sm{
+				font-size:2.1rem;
+			}
+		}
+}
+}
+
+.strip{
+	height:50vh;
+	box-shadow:inset 0px 0px 10px rgba(0,0,0,.1);
+	background:url(../img/cloud2.jpg) fixed no-repeat 50% 50%;
+	background-size: cover;
 }
