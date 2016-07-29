@@ -19,12 +19,15 @@
     }
 
     small{
-      float: right;
-      display:inline-block;
+      display:block;
       text-transform: uppercase;
       font-size:.75rem;
       color:@gray-light;
       letter-spacing:.15rem;
+
+      @media @xl{
+        float: right;
+      }
     }
   }
 
@@ -42,6 +45,17 @@
   }
   .description{
     margin-bottom:4.2rem;
+  }
+
+  .skills{
+    li{
+      display:inline-block;
+      padding:0 1.6rem 1.6rem 0;
+      list-style-type: none;
+      line-height:1rem;
+      font-size:1.3rem;
+      font-weight:300;
+    }
   }
 }
 
