@@ -2,6 +2,9 @@
 
 .resume{
   
+  section:first-of-type .row:first-of-type{
+      padding-top:1.6rem;
+    }
   .row{
     max-width: 68.7rem;
   }
@@ -25,6 +28,7 @@
     @media @sm{
       text-align:left;
     }
+    
 
     small{
       display:block;
@@ -37,6 +41,10 @@
         float: right;
       }
     }
+  }
+
+  h3 + h4{
+    padding-top:1.6rem;
   }
 
   article{
@@ -63,6 +71,13 @@
       line-height:1rem;
       font-size:1.3rem;
       font-weight:300;
+    }
+  }
+  .resume-footer{
+    color:@gray-light;
+
+    & a{
+      color:inherit;
     }
   }
 }
